@@ -11,7 +11,9 @@
   "author": "Abul Fazal",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
